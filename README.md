@@ -10,3 +10,5 @@ four vertices, `[0,1,2,3]`, and, if the last chosen was `X`, the next chosen ver
 
 Look up the wikipedia for Chaos Game, or the Numberphile video (altough they do in triangles,
 but is the same principle): they can explain better than me.
+
+This was based in the The Coding Train(https://www.youtube.com/watch?v=7gNzMtYo9n4) video.
